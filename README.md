@@ -23,4 +23,4 @@
 
 - 🌐 Portfolio: https://suvithan.com/
 - 📧 Email: contact@suvithan.com
-- 💼 LinkedIn: https://www.linkedin.com/in/anantharasa-suvithan-web-developer
+- 💼 LinkedIn: https://www.linkedin.com/in/anantharasa-suvithan
