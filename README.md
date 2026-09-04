@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Suvithan 👋
 
-<!--
-**suvithan-lk/suvithan-lk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Backend & Full-Stack Developer
 
-Here are some ideas to get you started:
+I build scalable web applications, REST APIs, and business-focused
+software solutions using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer focused on backend and full-stack development
+- ⚙️ Specialized in ASP.NET Core, Node.js, React and PostgreSQL
+- 🏗️ Interested in clean architecture, REST APIs and scalable systems
+- 🎨 UI/UX and product design experience
+- 🌍 Based in Sri Lanka
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- ASP.NET Core Web API
+- Node.js
+- Express
+- Laravel
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Bootstrap
+
+### Database
+- PostgreSQL
+- SQL Server
+- MySQL
+- MariaDB
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Postman
+- Cloudflare
+- Hostinger
+
+---
+
+## 🚀 Featured Projects
+
+### Jaffna City Hotel
+Hotel management and online booking platform.
+
+**Tech:** React • Node.js • PostgreSQL
+
+### Student Management System
+Full-stack student management platform with authentication and CRUD operations.
+
+**Tech:** React • ASP.NET Core Web API • MySQL • JWT
+
+### Agriculture Management System
+Business-focused management system built with Laravel.
+
+**Tech:** Laravel • MySQL • Bootstrap
+
+---
+
+## 📊 GitHub
+
+[GitHub Stats]
+
+---
+
+## 📫 Connect With Me
+
+Portfolio: ...
+LinkedIn: ...
+Email: ...
