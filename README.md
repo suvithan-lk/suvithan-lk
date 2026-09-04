@@ -1,4 +1,4 @@
-கண்டிப்பா. நீ கேட்டது **மேலே இருக்கும் முழு README content-ஐ plain README text-ஆ மட்டும்** தரணும்; extra explanation வேண்டாம்.
+
 
 ````md
 # Student Management System
