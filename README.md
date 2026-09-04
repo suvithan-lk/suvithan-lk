@@ -576,12 +576,4 @@ Software Engineer | Backend & Full-Stack Developer
 * GitHub: [https://github.com/suvithan-lk](https://github.com/suvithan-lk)
 * Portfolio: [https://suvithan.iceiy.com/](https://suvithan.iceiy.com/)
 * LinkedIn: [https://www.linkedin.com/in/anantharasa-suvithan/](https://www.linkedin.com/in/anantharasa-suvithan/)
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
-
-```
-
-**இதுதான் README-ல் direct-ஆ paste பண்ணக்கூடிய version.**
-```
+* Whatsapp : [https://wa.me/+94754272556](https://wa.me/+94754272556)
