@@ -1,579 +1,150 @@
+# 👋 Hi, I'm Suvithan
 
+### Software Engineer · Full-Stack Developer · Backend-Focused
 
-````md
-# Student Management System
+I build production-oriented web applications with a strong focus on **ASP.NET Core Web APIs, C#, databases, React, and modern web architecture**.
 
-A full-stack student management platform built with React, ASP.NET Core Web API, Entity Framework Core, and MySQL.
+I enjoy turning real-world requirements into clean, maintainable software — from database design and REST APIs to responsive user interfaces and deployment.
 
-This project demonstrates practical experience in building RESTful APIs, implementing authentication and authorization, managing relational data, integrating frontend and backend systems, and developing maintainable business applications.
+<p align="left">
+  <a href="https://github.com/suvithan-lk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://suvithan.iceiy.com/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/anantharasa-suvithan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-## 📌 Project Overview
+---
 
-The Student Management System is a full-stack web application designed to simplify and centralize student record management.
+## 🧑‍💻 About Me
 
-The application uses a React-based frontend, ASP.NET Core Web API backend, Entity Framework Core for data access, and MySQL as the relational database.
-
-The project focuses on:
-
-- Clean and maintainable application structure
-- RESTful API development
-- Secure authentication and authorization
-- Relational database management
-- Frontend and backend integration
-- Responsive user interface
-- Practical software engineering principles
-
-## ✨ Features
-
-### 🔐 Authentication & Authorization
-
-- JWT-based authentication
-- Secure user authentication
-- User registration and login
-- Role-based access control
-- Protected API endpoints
-- Token-based authorization
-- Authenticated API requests
-
-### 👨‍🎓 Student Management
-
-- Create student records
-- View student records
-- View individual student details
-- Update student information
-- Delete student records
-- Search and filter students
-- Form validation
-- Data validation
-
-### 📊 Dashboard
-
-- Responsive dashboard interface
-- Student overview
-- Student management interface
-- User-friendly navigation
-- Responsive design for different screen sizes
-
-### ⚙️ Backend
-
-- ASP.NET Core Web API
-- RESTful API architecture
-- CRUD operations
-- Entity Framework Core
-- MySQL database integration
-- JWT authentication
-- Role-based authorization
-- DTO-based request and response handling
-- Separation of concerns
-- Business logic organization
-- API validation
-- Centralized API configuration
-
-### 🎨 Frontend
-
-- React
-- Vite
-- Component-based architecture
-- Reusable UI components
-- Responsive interface
-- REST API integration
-- Form handling
-- Client-side validation
-- Authentication state handling
-- Protected application routes
-
-## 🏗️ System Architecture
-
-The application follows a client-server architecture.
-
-```text
-┌─────────────────────────────────────┐
-│           React Frontend            │
-│                                     │
-│ Components • Pages • Forms • Hooks  │
-│ API Services • Authentication       │
-└──────────────────┬──────────────────┘
-                   │
-                   │ HTTP / REST API
-                   ▼
-┌─────────────────────────────────────┐
-│        ASP.NET Core Web API         │
-│                                     │
-│ Controllers • Services • DTOs       │
-│ Authentication • Authorization      │
-│ Validation • Business Logic         │
-└──────────────────┬──────────────────┘
-                   │
-                   │ Entity Framework Core
-                   ▼
-┌─────────────────────────────────────┐
-│                MySQL                │
-│                                     │
-│ Users • Roles • Students             │
-│ Relational Data                     │
-└─────────────────────────────────────┘
-````
-
-## 🔄 Request Flow
-
-```text
-User
- ↓
-React Frontend
- ↓
-API Request
- ↓
-ASP.NET Core Web API
- ↓
-Authentication / Authorization
- ↓
-Controller
- ↓
-Service / Business Logic
- ↓
-Entity Framework Core
- ↓
-MySQL Database
- ↓
-API Response
- ↓
-React UI
-```
+- 💼 Software Engineer / Full-Stack Developer
+- 🔧 Backend-focused with **ASP.NET Core Web API & C#**
+- 🎨 Comfortable building modern UIs with **React, Next.js, Bootstrap and Tailwind CSS**
+- 🗄️ Experience with **SQL Server, MySQL, PostgreSQL and Entity Framework Core**
+- 🌐 Interested in scalable APIs, authentication, database design, deployment and DevOps
+- 🤖 Exploring AI-assisted software development and practical AI integrations
+- 📍 Based in Sri Lanka
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-* React
-* Vite
-* JavaScript
-* Bootstrap / Tailwind CSS
-* Axios / Fetch API
-
 ### Backend
 
-* ASP.NET Core Web API
-* C#
-* Entity Framework Core
-* RESTful APIs
-* JWT Authentication
-* Role-Based Authorization
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### Database
+### Frontend
 
-* MySQL
-* Relational Database Design
-* Entity Framework Core Migrations
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Development Tools
+### Databases
 
-* Visual Studio
-* Visual Studio Code
-* Git
-* GitHub
-* Postman
-* MySQL / MySQL Workbench
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-## 📂 Project Structure
+### Tools & Platforms
 
-```text
-student-management-app/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── hooks/
-│   │   ├── context/
-│   │   ├── utils/
-│   │   └── App.jsx
-│   │
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-├── backend/
-│   ├── Controllers/
-│   ├── Models/
-│   ├── DTOs/
-│   ├── Services/
-│   ├── Data/
-│   ├── Migrations/
-│   ├── Middleware/
-│   ├── Helpers/
-│   ├── appsettings.json
-│   └── Program.cs
-│
-└── README.md
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> Update this structure according to the actual project implementation.
+---
 
-## 🔐 Authentication Flow
+## 🚀 Featured Projects
 
-```text
-User Login
-    ↓
-React Frontend
-    ↓
-POST /api/auth/login
-    ↓
-ASP.NET Core API
-    ↓
-Validate User Credentials
-    ↓
-Generate JWT Token
-    ↓
-Return Token
-    ↓
-Store Authentication State
-    ↓
-Send Bearer Token with Requests
-    ↓
-Access Protected API Endpoints
-```
+### 🔹 Opsora
+Field-service / operations software focused on managing business workflows, service operations and day-to-day processes.
 
-## 🔑 Authorization
+**Focus:** business workflows · full-stack architecture · operations management
 
-Protected endpoints require a valid JWT bearer token.
+### 🔹 Student Management System
+Full-stack application demonstrating REST API development, authentication, authorization, relational data management and React integration.
 
-Example:
+**Stack:** React · ASP.NET Core Web API · C# · Entity Framework Core · MySQL · JWT
 
-```http
-Authorization: Bearer <JWT_TOKEN>
-```
+### 🔹 Agriculture Management System
+Web application focused on agriculture-related management workflows and CRUD operations.
 
-Role-based permissions can be applied to specific API endpoints depending on the authenticated user's role.
+**Stack:** Laravel · PHP · Bootstrap · MySQL
 
-## 📡 API Endpoints
+### 🔹 Gemini AI Clone Interface
+React-based interface project inspired by modern AI chat experiences, focused on reusable UI components and responsive frontend development.
 
-### Authentication
+**Stack:** React · JavaScript · CSS
 
-| Method | Endpoint             | Description                    |
-| ------ | -------------------- | ------------------------------ |
-| POST   | `/api/auth/register` | Register a new user            |
-| POST   | `/api/auth/login`    | Authenticate user              |
-| GET    | `/api/auth/profile`  | Get authenticated user profile |
+> 📌 More projects are available across my repositories. Each selected repository should include a focused README, screenshots, setup instructions, architecture notes and the technologies used.
 
-### Students
+---
 
-| Method | Endpoint             | Description          |
-| ------ | -------------------- | -------------------- |
-| GET    | `/api/students`      | Get all students     |
-| GET    | `/api/students/{id}` | Get student by ID    |
-| POST   | `/api/students`      | Create a new student |
-| PUT    | `/api/students/{id}` | Update student       |
-| DELETE | `/api/students/{id}` | Delete student       |
-
-> Update endpoint names and available routes according to the actual implementation.
-
-## 🗄️ Database Design
-
-The application uses MySQL as the primary relational database.
-
-### Main Entities
-
-* Users
-* Roles
-* Students
-
-### Example Database Structure
+## 📚 What I Focus On
 
 ```text
-Users
-├── Id
-├── Username
-├── Email
-├── PasswordHash
-└── RoleId
+Backend Engineering
+├── ASP.NET Core Web API
+├── REST API design
+├── C#
+├── Authentication & Authorization
+├── Entity Framework Core
+└── Database-driven applications
 
-Roles
-├── Id
-└── Name
+Frontend Engineering
+├── React
+├── Next.js
+├── JavaScript / TypeScript
+├── Responsive UI
+└── API integration
 
-Students
-├── Id
-├── Name
-├── Email
-├── Phone
-├── Address
-└── Additional Student Information
+Engineering Practices
+├── Git & GitHub
+├── Testing & debugging
+├── API documentation
+├── Deployment
+├── Docker
+└── CI/CD
 ```
 
-## 🔗 Entity Relationships
+## 📈 GitHub Activity
 
-```text
-Roles
-  │
-  └────────< Users
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suvithan-lk&show_icons=true&hide_border=true&rank_icon=github" alt="Suvithan's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvithan-lk&layout=compact&hide_border=true" alt="Suvithan's top languages" />
+</p>
 
-Students
-  │
-  └──────── Student Information
-```
+---
 
-> Add an ER diagram to this section when available.
+## 🎯 Current Direction
 
-## 🧩 Backend Design
+I am continuously improving my skills in:
 
-The backend is organized to keep API responsibilities separated and maintainable.
+- Advanced **ASP.NET Core Web API** development
+- **React / Next.js** application architecture
+- Database design and query optimization
+- Secure authentication and authorization
+- Docker, deployment and **CI/CD**
+- AI-assisted development and practical AI integrations
 
-```text
-Controller
-    ↓
-Service / Business Logic
-    ↓
-Data Access
-    ↓
-Entity Framework Core
-    ↓
-MySQL
-```
+## 📫 Connect With Me
 
-Key backend concepts include:
+- 🌐 **Portfolio:** https://suvithan.iceiy.com/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anantharasa-suvithan/
+- 🐙 **GitHub:** https://github.com/suvithan-lk
 
-* RESTful API design
-* Dependency Injection
-* Entity Framework Core
-* DTOs
-* Authentication and authorization
-* Model validation
-* Database migrations
-* Separation of concerns
-* Exception handling
-* Configuration management
+---
 
-## 🌐 Frontend Design
-
-The React application follows a component-based architecture.
-
-Core frontend responsibilities include:
-
-* Rendering reusable UI components
-* Handling forms
-* Managing application state
-* Calling backend APIs
-* Handling authentication
-* Displaying API responses
-* Client-side validation
-* Responsive user interface development
-
-## 🧪 API Testing
-
-The API can be tested using Postman.
-
-Example request:
-
-```http
-GET /api/students
-```
-
-Example authenticated request:
-
-```http
-GET /api/students
-Authorization: Bearer <JWT_TOKEN>
-```
-
-Example response:
-
-```json
-[
-  {
-    "id": 1,
-    "name": "John Doe",
-    "email": "john@example.com"
-  }
-]
-```
-
-> Replace example requests and responses with the actual API implementation.
-
-## 📸 Screenshots
-
-### Login
-
-![Login Screenshot](screenshots/login.png)
-
-### Dashboard
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-### Student Management
-
-![Student Management Screenshot](screenshots/students.png)
-
-### Student Form
-
-![Student Form Screenshot](screenshots/student-form.png)
-
-> Add actual screenshots to the repository.
-
-## ⚙️ Configuration
-
-Backend configuration is managed through `appsettings.json` and environment-specific configuration.
-
-Example:
-
-```json
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Database=StudentManagementDb;User=root;Password=YOUR_PASSWORD;"
-  }
-}
-```
-
-JWT and other sensitive configuration values should not be hardcoded in source control.
-
-Use environment variables or secure configuration management for production environments.
-
-## 🚀 Installation & Setup
-
-### Prerequisites
-
-* Node.js
-* .NET SDK
-* MySQL
-* Git
-* Visual Studio or Visual Studio Code
-* Postman
-
-### Clone Repository
-
-```bash
-git clone https://github.com/suvithan-lk/student-management-app.git
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### Backend Setup
-
-```bash
-cd backend
-dotnet restore
-dotnet build
-dotnet run
-```
-
-### Database Setup
-
-Create the MySQL database and configure the connection string.
-
-Then apply Entity Framework Core migrations:
-
-```bash
-dotnet ef database update
-```
-
-## 🧱 Development Practices
-
-The project follows practical software engineering practices including:
-
-* Modular code organization
-* Separation of concerns
-* Reusable components
-* API-based communication
-* Input validation
-* Authentication and authorization
-* Database migrations
-* Source control with Git
-* API testing with Postman
-* Maintainable project structure
-
-## 📈 Performance & Scalability Considerations
-
-The project architecture can be extended to support larger applications through:
-
-* Database indexing
-* Pagination
-* API response optimization
-* Caching
-* Efficient Entity Framework Core queries
-* Asynchronous programming
-* Horizontal scaling
-* Containerization
-* Cloud deployment
-
-## 🔒 Security Considerations
-
-Security considerations include:
-
-* JWT-based authentication
-* Protected API endpoints
-* Role-based authorization
-* Password hashing
-* Input validation
-* Secure API configuration
-* Avoiding sensitive credentials in source control
-* HTTPS for production environments
-
-## 🧠 Key Learning Outcomes
-
-This project provided practical experience in:
-
-* Building RESTful APIs with ASP.NET Core
-* Developing full-stack applications
-* Implementing JWT authentication
-* Implementing authorization
-* Working with Entity Framework Core
-* Designing relational databases
-* Creating database migrations
-* Integrating React with ASP.NET Core
-* Implementing CRUD operations
-* Working with HTTP requests and responses
-* Using Postman for API testing
-* Managing source code with Git and GitHub
-* Understanding client-server architecture
-* Structuring maintainable software projects
-
-## 🔮 Future Improvements
-
-* [ ] Docker containerization
-* [ ] Unit and integration testing
-* [ ] Automated CI/CD pipeline
-* [ ] Swagger / OpenAPI documentation
-* [ ] Advanced search and filtering
-* [ ] Server-side pagination
-* [ ] Sorting
-* [ ] Advanced role-based permissions
-* [ ] Centralized exception handling
-* [ ] Logging and monitoring
-* [ ] Redis caching
-* [ ] Cloud deployment
-* [ ] Production-ready environment configuration
-
-## 👨‍💻 Author
-
-**A. Suvithan**
-
-Software Engineer | Backend & Full-Stack Developer
-
-### Technical Focus
-
-* ASP.NET Core
-* C#
-* RESTful APIs
-* Entity Framework Core
-* SQL Server
-* PostgreSQL
-* MySQL
-* Node.js
-* Express.js
-* React
-* Next.js
-* TypeScript
-* Laravel
-
-### Connect With Me
-
-* GitHub: [https://github.com/suvithan-lk](https://github.com/suvithan-lk)
-* Portfolio: [https://suvithan.iceiy.com/](https://suvithan.iceiy.com/)
-* LinkedIn: [https://www.linkedin.com/in/anantharasa-suvithan/](https://www.linkedin.com/in/anantharasa-suvithan/)
-* Whatsapp : [https://wa.me/+94754272556](https://wa.me/+94754272556)
+<p align="center">
+  <i>Building useful software, learning continuously, and improving one project at a time.</i>
+</p>
