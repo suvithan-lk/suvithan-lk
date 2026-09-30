@@ -1,32 +1,67 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#06131B"/>
-    <stop offset="0.55" stop-color="#08232C"/>
-    <stop offset="1" stop-color="#031016"/>
+  <linearGradient id="paper" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B0D0E"/>
+    <stop offset="0.52" stop-color="#111516"/>
+    <stop offset="1" stop-color="#050708"/>
   </linearGradient>
-  <linearGradient id="line" x1="140" y1="80" x2="1060" y2="290" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#38BDF8" stop-opacity="0"/>
-    <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.8"/>
-    <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+  <linearGradient id="beam" x1="120" y1="420" x2="1280" y2="80" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#D8FF7A" stop-opacity="0"/>
+    <stop offset="0.48" stop-color="#D8FF7A" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#8BE9FD" stop-opacity="0"/>
   </linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+  <linearGradient id="type" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#F4F1E8"/>
+    <stop offset="1" stop-color="#B8C0B8"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+  <clipPath id="frame"><rect x="26" y="26" width="1348" height="468" rx="2"/></clipPath>
 </defs>
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-<circle cx="930" cy="90" r="100" fill="#22D3EE" fill-opacity="0.08" filter="url(#glow)"/>
-<circle cx="1040" cy="270" r="130" fill="#34D399" fill-opacity="0.06" filter="url(#glow)"/>
-<path d="M70 285C250 205 330 310 510 230C700 145 770 235 1130 90" stroke="url(#line)" stroke-width="2"/>
-<path d="M70 305C270 225 360 325 545 250C720 180 850 245 1130 130" stroke="#164E63" stroke-width="1"/>
-<g opacity="0.5">
-<circle cx="830" cy="125" r="4" fill="#67E8F9"/><circle cx="900" cy="178" r="3" fill="#34D399"/>
-<circle cx="1010" cy="145" r="4" fill="#67E8F9"/><circle cx="1080" cy="220" r="3" fill="#34D399"/>
+
+<rect width="1400" height="520" fill="#030405"/>
+<rect x="26" y="26" width="1348" height="468" fill="url(#paper)" stroke="#2A3030"/>
+
+<g clip-path="url(#frame)">
+  <!-- Swiss grid -->
+  <g opacity=".14" stroke="#D7DED8" stroke-width="1">
+    <path d="M104 26V494M206 26V494M308 26V494M410 26V494M512 26V494M614 26V494M716 26V494M818 26V494M920 26V494M1022 26V494M1124 26V494M1226 26V494M1328 26V494"/>
+    <path d="M26 104H1374M26 182H1374M26 260H1374M26 338H1374M26 416H1374"/>
+  </g>
+
+  <!-- cinematic glow -->
+  <ellipse cx="1020" cy="270" rx="300" ry="150" fill="#D8FF7A" fill-opacity=".07" filter="url(#blur)">
+    <animate attributeName="opacity" values=".45;.8;.45" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- motion beam -->
+  <path d="M-80 438C300 330 520 470 760 350C990 235 1110 185 1500 54" stroke="url(#beam)" stroke-width="2" opacity=".8">
+    <animate attributeName="d" values="M-80 438C300 330 520 470 760 350C990 235 1110 185 1500 54;M-80 400C300 450 520 290 760 390C990 500 1110 170 1500 92;M-80 438C300 330 520 470 760 350C990 235 1110 185 1500 54" dur="11s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- editorial vertical marker -->
+  <rect x="92" y="92" width="4" height="112" fill="#D8FF7A"/>
+  <text x="116" y="104" fill="#A9B2AC" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3">ANANTHARASA SUVITHAN / 2026</text>
+  <text x="116" y="137" fill="#F4F1E8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.5">ASSOCIATE SOFTWARE ENGINEER</text>
+  <text x="116" y="165" fill="#A9B2AC" font-family="Arial, Helvetica, sans-serif" font-size="12">BACKEND-FOCUSED FULL-STACK ENGINEERING</text>
+
+  <!-- oversized experimental typography -->
+  <text x="88" y="316" fill="url(#type)" font-family="Arial, Helvetica, sans-serif" font-size="122" font-weight="700" letter-spacing="-7">SUVITHAN</text>
+  <text x="95" y="358" fill="#7F8A83" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="9">SYSTEMS / APIS / INTERFACES</text>
+
+  <!-- right editorial data block -->
+  <g transform="translate(1060 92)">
+    <text x="0" y="0" fill="#8F9A94" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">STACK / 01</text>
+    <text x="0" y="25" fill="#E7ECE7" font-family="Arial, Helvetica, sans-serif" font-size="13">C# · .NET 10</text>
+    <text x="0" y="47" fill="#E7ECE7" font-family="Arial, Helvetica, sans-serif" font-size="13">POSTGRESQL 18</text>
+    <text x="0" y="69" fill="#E7ECE7" font-family="Arial, Helvetica, sans-serif" font-size="13">NEXT.JS 16</text>
+    <text x="0" y="91" fill="#E7ECE7" font-family="Arial, Helvetica, sans-serif" font-size="13">TYPESCRIPT</text>
+    <line x1="0" y1="112" x2="170" y2="112" stroke="#3B4540"/>
+    <text x="0" y="137" fill="#8F9A94" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">MODE / 02</text>
+    <text x="0" y="162" fill="#D8FF7A" font-family="Arial, Helvetica, sans-serif" font-size="12">BUILD / TEST / SHIP</text>
+  </g>
+
+  <text x="92" y="452" fill="#66716B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">JAFFNA / SRI LANKA</text>
+  <text x="1278" y="452" fill="#66716B" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="end" letter-spacing="2">01 — 07</text>
 </g>
-<text x="72" y="74" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">SOFTWARE ENGINEER · SRI LANKA</text>
-<text x="72" y="145" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">ANANTHARASA SUVITHAN</text>
-<text x="72" y="188" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">Backend-focused full-stack developer</text>
-<text x="72" y="230" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">C#  ·  ASP.NET Core  ·  PostgreSQL  ·  Next.js  ·  TypeScript</text>
-<rect x="72" y="270" width="132" height="34" rx="17" fill="#0E7490" fill-opacity="0.22" stroke="#155E75"/>
-<text x="138" y="292" text-anchor="middle" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="12">BUILDING SYSTEMS</text>
-<rect x="218" y="270" width="132" height="34" rx="17" fill="#047857" fill-opacity="0.16" stroke="#065F46"/>
-<text x="284" y="292" text-anchor="middle" fill="#A7F3D0" font-family="Arial, Helvetica, sans-serif" font-size="12">LEARNING DEEPLY</text>
 </svg>
