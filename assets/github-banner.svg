@@ -1,0 +1,32 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#06131B"/>
+    <stop offset="0.55" stop-color="#08232C"/>
+    <stop offset="1" stop-color="#031016"/>
+  </linearGradient>
+  <linearGradient id="line" x1="140" y1="80" x2="1060" y2="290" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#38BDF8" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.8"/>
+    <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<circle cx="930" cy="90" r="100" fill="#22D3EE" fill-opacity="0.08" filter="url(#glow)"/>
+<circle cx="1040" cy="270" r="130" fill="#34D399" fill-opacity="0.06" filter="url(#glow)"/>
+<path d="M70 285C250 205 330 310 510 230C700 145 770 235 1130 90" stroke="url(#line)" stroke-width="2"/>
+<path d="M70 305C270 225 360 325 545 250C720 180 850 245 1130 130" stroke="#164E63" stroke-width="1"/>
+<g opacity="0.5">
+<circle cx="830" cy="125" r="4" fill="#67E8F9"/><circle cx="900" cy="178" r="3" fill="#34D399"/>
+<circle cx="1010" cy="145" r="4" fill="#67E8F9"/><circle cx="1080" cy="220" r="3" fill="#34D399"/>
+</g>
+<text x="72" y="74" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">SOFTWARE ENGINEER · SRI LANKA</text>
+<text x="72" y="145" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">ANANTHARASA SUVITHAN</text>
+<text x="72" y="188" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">Backend-focused full-stack developer</text>
+<text x="72" y="230" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">C#  ·  ASP.NET Core  ·  PostgreSQL  ·  Next.js  ·  TypeScript</text>
+<rect x="72" y="270" width="132" height="34" rx="17" fill="#0E7490" fill-opacity="0.22" stroke="#155E75"/>
+<text x="138" y="292" text-anchor="middle" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="12">BUILDING SYSTEMS</text>
+<rect x="218" y="270" width="132" height="34" rx="17" fill="#047857" fill-opacity="0.16" stroke="#065F46"/>
+<text x="284" y="292" text-anchor="middle" fill="#A7F3D0" font-family="Arial, Helvetica, sans-serif" font-size="12">LEARNING DEEPLY</text>
+</svg>
