@@ -2,181 +2,249 @@
 
 <img src="./assets/github-banner.svg" alt="Anantharasa Suvithan — Software Engineer" width="100%"/>
 
-### Associate Software Engineer · Backend-Focused Full-Stack Developer
+# ANANTHARASA SUVITHAN
 
-I build practical software systems with **C#, ASP.NET Core, PostgreSQL, Next.js and TypeScript** — with a focus on APIs, authentication, database design, maintainable architecture, and real-world business workflows.
+### Associate Software Engineer / Backend-Focused Full-Stack Developer
 
-<p>
-  <a href="https://github.com/suvithan-lk"><img src="https://img.shields.io/badge/GitHub-Profile-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://suvithan.iceiy.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/anantharasa-suvithan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-075985?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+**I design and build software systems where the architecture matters as much as the interface.**
+
+[GitHub](https://github.com/suvithan-lk) · [Portfolio](https://suvithan.iceiy.com/) · [LinkedIn](https://www.linkedin.com/in/anantharasa-suvithan/)
 
 </div>
 
 ---
 
-## Engineering Focus
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="9%" valign="top">
 
-### Backend
-
-- C# / .NET 10
-- ASP.NET Core Minimal APIs
-- Entity Framework Core 10
-- REST API design
-- JWT authentication
-- Refresh-token security
-- Validation & error handling
-- PostgreSQL database design
+**01**
 
 </td>
-<td width="50%" valign="top">
+<td width="31%" valign="top">
 
-### Modern Web
+### POSITION
 
-- Next.js 16 App Router
-- React 19
-- TypeScript
-- Tailwind CSS
-- Responsive UI systems
-- API-driven applications
-- Docker
-- GitHub Actions / CI
+**Backend-focused**  
+Full-stack engineering
+
+I work primarily with **C#, ASP.NET Core, EF Core and PostgreSQL**, while building modern product interfaces with **Next.js, React and TypeScript**.
+
+</td>
+<td width="60%" valign="top">
+
+### CURRENT FIELD
+
+`API DESIGN` · `DATABASES` · `AUTH` · `BUSINESS SYSTEMS` · `DEPLOYMENT`
+
+The work is practical: model the domain, design the API, secure the boundary, build the interface, test the failure cases, and ship the system.
 
 </td>
 </tr>
 </table>
 
-## Selected Work
+---
 
-### 01 · Opsora
+## SELECTED SYSTEMS
 
-**Business operations / field-service platform**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack system focused on practical operational workflows, maintainable architecture, and real-world business requirements.
+### 01 / OPSORA
 
-**Focus:** Full-stack architecture · business workflows · API integration · maintainability
+**Operations · Field Service · Full Stack**
 
-→ [View repository](https://github.com/suvithan-lk/Opsora-Z)
+A business-oriented platform focused on operational workflows and maintainable application architecture.
+
+**Focus**
+
+- Business workflow modelling
+- API-driven application design
+- Full-stack integration
+- Maintainability
+
+[↗ Repository](https://github.com/suvithan-lk/Opsora-Z)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / FOLIA
+
+**Finance · Analytics · Security**
+
+A personal finance workspace built around transparent calculations, budgeting, reporting and user-scoped data.
+
+**Stack**
+
+`Next.js 16` `React 19` `.NET 10` `EF Core 10` `PostgreSQL 18` `Docker`
+
+[↗ Repository](https://github.com/suvithan-lk/expense-tracker)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 / JCH RENTAL PLATFORM
+
+**Reservations · Rentals · Payments**
+
+A rental booking platform designed around customer booking flows and internal administration.
+
+**Focus**
+
+- Rental inventory
+- Booking lifecycle
+- Payment integration
+- Admin operations
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / PAPERBANK LK
+
+**Education · Marketplace · Entitlements**
+
+A paper marketplace concept with payment verification, protected files and controlled download entitlements.
+
+**Engineering constraints**
+
+- Server-to-server payment verification
+- Protected document storage
+- One successful download entitlement
+- Backend-enforced business rules
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 05 / MODERNUI PORTFOLIO
+
+**Editorial · Interface · Vanilla Web**
+
+A framework-free experiment combining luxury editorial composition with advanced CSS and native browser APIs.
+
+`HTML5` · `CSS3` · `ES2024`
+
+[↗ Repository](https://github.com/suvithan-lk/ModernUI-Portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 06 / AGRICULTURE SYSTEM
+
+**Management · Marketplace · Laravel**
+
+A full-stack agricultural management application exploring practical business workflows.
+
+`Laravel` · `PHP` · `Bootstrap` · `MySQL`
+
+[↗ Repository](https://github.com/suvithan-lk/agriculture-fullstack-laravel12-bootstrap-5-Website-Project)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 02 · Folia
-
-**Personal finance management workspace**
-
-A full-stack financial tracking application built around transparent calculations, user-scoped data, budgeting, reporting, and secure authentication.
-
-**Stack:** Next.js 16 · React 19 · TypeScript · ASP.NET Core 10 · EF Core 10 · PostgreSQL 18 · Docker
-
-→ [View repository](https://github.com/suvithan-lk/expense-tracker)
-
----
-
-### 03 · ModernUI Portfolio
-
-**Luxury Editorial / Quiet Luxury portfolio**
-
-A framework-free portfolio experiment built with semantic HTML, advanced CSS, and native JavaScript APIs.
-
-**Stack:** HTML5 · CSS3 · ES2024 · Web APIs
-
-→ [View repository](https://github.com/suvithan-lk/ModernUI-Portfolio)
-
----
-
-### 04 · Agriculture Management System
-
-**Full-stack agricultural management platform**
-
-A Laravel-based business application covering management workflows, products, services, and marketplace-oriented functionality.
-
-**Stack:** Laravel · PHP · Bootstrap · MySQL
-
-→ [View repository](https://github.com/suvithan-lk/agriculture-fullstack-laravel12-bootstrap-5-Website-Project)
-
----
-
-### 05 · E-commerce Web Application
-
-**Modern web commerce project**
-
-A practical e-commerce implementation exploring product management, customer-facing workflows, and full-stack application structure.
-
-→ [View repository](https://github.com/suvithan-lk/ecom-web-app)
-
----
-
-## Architecture Mindset
-
-I care about the engineering behind the UI — not just making screens look good.
+## THE SYSTEM
 
 ```text
-Client
-  │
-  ▼
-Next.js / React
-  │
-  │ HTTPS + JSON
-  ▼
-ASP.NET Core API
-  │
-  ├── Authentication / Authorization
-  ├── Validation
-  ├── Business Logic
-  ├── Error Handling
-  └── DTO / API Contracts
-  │
-  ▼
-EF Core
-  │
-  ▼
-PostgreSQL
+                         PRODUCT
+                            │
+                            ▼
+                  ┌───────────────────┐
+                  │   NEXT.JS / UI    │
+                  └─────────┬─────────┘
+                            │
+                     HTTPS / JSON
+                            │
+                            ▼
+              ┌─────────────────────────┐
+              │    ASP.NET CORE API     │
+              │                         │
+              │  Auth · Validation      │
+              │  Business Logic         │
+              │  DTOs · Error Handling  │
+              └────────────┬────────────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   EF CORE   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │ POSTGRESQL  │
+                    └─────────────┘
 ```
 
-### Principles I practice
+### Engineering principles
 
-- **Secure by default** — never trust client-supplied identity or payment state.
-- **Clear boundaries** — separate API contracts, business logic, persistence, and UI concerns.
-- **Explicit data ownership** — queries are scoped to the authenticated user where required.
-- **Predictable errors** — consistent API responses instead of leaking implementation details.
-- **Maintainable code** — readable naming, small responsibilities, and feature-oriented organization.
-- **Production thinking** — configuration, logging, testing, deployment, and failure cases matter.
-
----
-
-## Current Direction
-
-I'm going deeper into:
-
-**ASP.NET Core → API architecture → PostgreSQL → authentication/security → testing → Docker → CI/CD → practical AI integrations**
-
-The goal is not to collect frameworks. The goal is to become better at **designing, building, debugging, and shipping complete software systems**.
-
----
-
-## Technology Map
-
-| Area | Technologies |
+| Principle | Practice |
 |---|---|
-| **Languages** | C#, TypeScript, JavaScript, PHP, SQL |
-| **Backend** | ASP.NET Core, .NET 10, EF Core 10, Node.js, Express, Laravel |
-| **Frontend** | Next.js 16, React, HTML5, CSS3, Bootstrap, Tailwind CSS |
-| **Databases** | PostgreSQL, SQL Server, MySQL, MariaDB |
-| **DevOps** | Docker, GitHub Actions, Linux, Cloudflare |
-| **Tools** | Git, GitHub, Postman, VS Code, Visual Studio |
+| **Boundaries** | Keep UI, API, domain logic and persistence responsibilities explicit. |
+| **Security** | Never trust client-supplied identity or payment state. |
+| **Data ownership** | Scope protected queries to authenticated users. |
+| **Contracts** | Use explicit DTOs instead of leaking persistence models. |
+| **Failure handling** | Validate inputs and return predictable API errors. |
+| **Operations** | Think about configuration, logs, deployment and failure before production. |
 
 ---
 
-## GitHub Activity
+## TECHNOLOGY / INDEX
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suvithan-lk&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics"/>
+| DOMAIN | PRIMARY | SECONDARY |
+|---|---|---|
+| **LANGUAGES** | C# · TypeScript · JavaScript | PHP · SQL |
+| **BACKEND** | ASP.NET Core · .NET 10 | Node.js · Laravel |
+| **DATA** | PostgreSQL 18 · EF Core 10 | SQL Server · MySQL · MariaDB |
+| **FRONTEND** | Next.js 16 · React | HTML · CSS · Bootstrap · Tailwind |
+| **DEVOPS** | Docker · GitHub Actions | Linux · Cloudflare |
+| **TOOLS** | Git · GitHub · Postman | VS Code · Visual Studio |
+
+</div>
+
+---
+
+## CURRENT DIRECTION
+
+**01 / DEEPEN**
+
+ASP.NET Core API architecture  
+PostgreSQL data modelling  
+Authentication & security  
+Testing & integration testing
+
+**02 / SHIP**
+
+Dockerised applications  
+CI/CD workflows  
+Production deployment  
+Observability and failure handling
+
+**03 / EXPLORE**
+
+Practical AI integrations  
+Developer tooling  
+AI-assisted engineering workflows
+
+> The goal is not to collect frameworks.  
+> The goal is to become better at **designing, debugging and shipping complete software systems.**
+
+---
+
+## GITHUB / SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suvithan-lk&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvithan-lk&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages"/>
 
 </div>
@@ -185,8 +253,18 @@ The goal is not to collect frameworks. The goal is to become better at **designi
 
 <div align="center">
 
-### Building useful software. Learning deeply. Shipping deliberately.
+### BUILD / MEASURE / LEARN / REPEAT
 
-<sub>Based in Sri Lanka · Open to meaningful engineering opportunities and collaborations.</sub>
+**Anantharasa Suvithan** · Sri Lanka
+
+[Portfolio](https://suvithan.iceiy.com/) · [LinkedIn](https://www.linkedin.com/in/anantharasa-suvithan/) · [GitHub](https://github.com/suvithan-lk)
 
 </div>
+
+<!--
+Design language:
+Luxury Editorial × Swiss Grid × Experimental Typography
+The README intentionally uses restrained color, asymmetric hierarchy,
+numbered sections, large typographic anchors and editorial whitespace.
+-->
+
